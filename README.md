@@ -8,8 +8,9 @@ step
 2. on ubuntu client, update and ugpgrade linux, install python 3 and netmiko
 3. Config the devices and save
    
- ============================================================================================
  
+=======================================================================================================
+
 sample router basic configuration :
 
 R1#show running-config 
@@ -133,6 +134,7 @@ line vty 0 4
 no scheduler allocate
 !
 end
+
 
 =======================================================================================================
 
